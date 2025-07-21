@@ -14,7 +14,7 @@ patterns with customizable options and a calendar preview.
 
 ## 📁 GitHub Repository
 
-[📦 GitHub Repo]()
+[📦 GitHub Repo](https://github.com/GOOTYNAVEEN/Tick-Tick-App)
 
 ---
 
